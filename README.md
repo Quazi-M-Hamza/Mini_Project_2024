@@ -1,2 +1,3 @@
-# Mini_Project_2024
-This repository containes a project on attendance management system using facial recognition.
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
